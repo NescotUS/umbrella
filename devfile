@@ -11,6 +11,5 @@ mytoken = bbfb1328-b923-4d56-ab09-fe9f1565ec22
 
 print (me.you);
 
-string mystuff = AKIA45OKK2HDJF7AP5V2
-string mystuff2 = elKdnsSNKDyqURu9eOE3kEFIT1rQfE66kULlOrmW
-
+string mystuff =  yjoI9svs0ZQ86NF0JAxth9rxD6ITo2lQ3477QfqEzLJlQo0XpTDKPOCu80pvplUCncNVvwk7wbh3GtJtZ/cusQ==
+string mystuff2 = DefaultEndpointsProtocol=https;AccountName=mystorage434455;AccountKey=yjoI9svs0ZQ86NF0JAxth9rxD6ITo2lQ3477QfqEzLJlQo0XpTDKPOCu80pvplUCncNVvwk7wbh3GtJtZ/cusQ==;EndpointSuffix=core.windows.net
